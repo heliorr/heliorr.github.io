@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60478654.css",
+    "main.js": "/static/js/main.24530a68.js",
+    "static/js/787.6eebfe99.chunk.js": "/static/js/787.6eebfe99.chunk.js",
+    "static/media/carta.png": "/static/media/carta.1088f014e813409b2c82.png",
+    "static/media/modeloCurriculo.png": "/static/media/modeloCurriculo.50164240033f3b532536.png",
+    "static/media/helio.png": "/static/media/helio.1a72d2551b0bcd8ca524.png",
+    "index.html": "/index.html",
+    "main.60478654.css.map": "/static/css/main.60478654.css.map",
+    "main.24530a68.js.map": "/static/js/main.24530a68.js.map",
+    "787.6eebfe99.chunk.js.map": "/static/js/787.6eebfe99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60478654.css",
+    "static/js/main.24530a68.js"
+  ]
+}
